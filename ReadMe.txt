@@ -1,4 +1,4 @@
-Note:Due to constraints on my office machine creating an executable had some problem while include pytube.
+Note:Due to constraints on my office machine creating an executable had some problem via pyinstaller in pycharm.
 So, you can try running the exe in dist folder but if has some problem try to run main.py seprately and then testing files can be run to test.
 
 
