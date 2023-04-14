@@ -20,11 +20,13 @@ How to run:
 
 1) Try to run main.py as it will start the service.
    You can use pycharm or python prompt or try to run exe in dist folder.
+   or python.exe .\main.py
 2) For any package issues refer to requirements.txt file or you can do pip install -r requirements.txt to add all dependencies.
 3) After the main.py starts the service will start at localhost port:8888, 
 4) Now you can test the service via Test files shared.
    Before running them check the url list and overlay.png image path in the scripts and set them.
    Then go ahead and run Test_Concurrent_Requests.py or Test_Sequential_Requests.py
+   python.exe .\Test_Concurrent_Requests.py
    You will see files creation in outpput folder.
 
 Note:All functions inside main.py have comments about their functionality please read through it.
